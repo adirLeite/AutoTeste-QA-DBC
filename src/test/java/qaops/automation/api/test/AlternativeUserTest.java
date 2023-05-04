@@ -1,11 +1,11 @@
-package dbc.adir.automation.api.domain;
+package qaops.automation.api.test;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import org.apache.http.HttpStatus;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import dbc.adir.automation.api.domain;
+import qaops.automation.api.domain.User;
 
 import java.util.HashMap;
 import java.util.Map;
